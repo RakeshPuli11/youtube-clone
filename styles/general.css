@@ -1,0 +1,12 @@
+p {
+    font-family: "Roboto Flex", sans-serif;
+    margin-top: 2px;
+    margin-bottom: 0px;
+  }
+  body{
+    margin: 0px;
+    padding-top: 120px;
+    padding-left: 145px;
+    padding-right: 20px;
+    background-color: rgb(250, 247, 247);
+  }
